@@ -186,14 +186,14 @@ def ejercicio9():
     mes = fecha // 10000 % 100
 
 
-    dia = fecha / 1000000
+    dia = fecha // 1000000
 
 
     print("dia: ", dia)
     print("mes: ", mes)
     print("año: ", año)
 
-
+ejercicio9()
 
 def ejercicio10():
 
@@ -233,4 +233,3 @@ def ejercicio11():
 
     print("el salario total es: ",salariototal)
 
-ejercicio11()
