@@ -193,7 +193,7 @@ def ejercicio9():
     print("mes: ", mes)
     print("año: ", año)
 
-ejercicio9()
+
 
 def ejercicio10():
 
