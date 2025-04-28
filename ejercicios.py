@@ -145,7 +145,9 @@ def ejercicio7():
     num7=int(input())
 
 
-    p= num1 + num2 + num3 + num4 + num5 + num6 + num7 / 7
+    suma= num1 + num2 + num3 + num4 + num5 + num6 + num7
+
+    p= suma / 7
 
 
     print("el promedio es: ",p)
@@ -230,3 +232,5 @@ def ejercicio11():
 
 
     print("el salario total es: ",salariototal)
+
+ejercicio11()
